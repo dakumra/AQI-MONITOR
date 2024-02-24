@@ -3,6 +3,8 @@ AQI MONITOR USING ARDUINO, SDS011 (FOR PM2.5 &amp; PM10), MQ135 AND DHT11
 
 HERE'S A GUIDE TO MAKE AN AQI SENSOR USING THE ABOVE MENTIONED SENSORS
 
+[Here's a video of the running model](https://imgur.com/a/benoDAu)
+
 ![final](https://github.com/dakumra/AQI-MONITOR/assets/95081306/ac739c8a-9814-439e-ad01-455ba636fd48)
 
 This is the link to connect an SPI display if you use one, please see if you have a different interface 
